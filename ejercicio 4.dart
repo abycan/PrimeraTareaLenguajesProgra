@@ -1,8 +1,8 @@
 //ejercicio 4
 //Crea un programa que devuelva una lista con todos los elementos únicos 
-de otra lista.
+//de otra lista.
 
-/*
+
 void main() {
 
   final List<int> numeros = [1,3,4,5];
@@ -17,4 +17,3 @@ void main() {
  
   
 
-*/
