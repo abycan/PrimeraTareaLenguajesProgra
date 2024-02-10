@@ -1,5 +1,5 @@
 // ejercicio 1
-/*
+
 
 //Crea un programa que verifique si un número es par o impar.
 
@@ -24,4 +24,4 @@ return numero;
 }
 
 
-*/
+
