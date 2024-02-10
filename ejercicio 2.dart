@@ -1,7 +1,7 @@
 // ejercicio 2
 // . Crea un programa que sume todos los números de una lista
 
-/*
+
 
 void main() {
  final List<int> numeros = [1, 2, 8, 4, 5]; 
@@ -20,4 +20,3 @@ int sumarNumero(List<int> numeros) {
   return suma;
 }
 
-*/
